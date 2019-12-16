@@ -15,7 +15,7 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 
   /* Visual */
-  background-color: #ededed;
+  background-color: #87888a;
 }
 
 /* Media query for body */
@@ -31,7 +31,7 @@ body {
 
 /* ----NAV START---- */
 .navbar-custom {
-  background-color: #fff;
+  background-color: rgb(13, 14, 15);
 }
 
 #logo {
@@ -50,7 +50,7 @@ body {
   color: #fff;
 
   /* Visual */
-  background: #4aaaa5;
+  background: #a24aaa;
 }
 
 /* Logo hover state */
@@ -71,13 +71,13 @@ body {
 
 /* Nav element hover state */
 .navbar-default .navbar-nav > li > a:hover {
-  color: #4aaaa5;
+  color: #aa4a82;
 }
 
 /* Media query for nav */
 @media only screen and (max-width: 767px) {
   .navbar-header {
-    background-color: #4aaaa5;
+    background-color: #60226d;
   }
 
   #logo {
@@ -95,10 +95,10 @@ body {
     /* Typography */
     font-size: 24px;
     font-weight: bold;
-    color: #fff;
+    color: rgb(12, 12, 12);
 
     /* Visual */
-    background: #4aaaa5;
+    background: #131414;
   }
 }
 
@@ -113,7 +113,7 @@ body {
   /* Typography */
   font-size: 32px;
   font-weight: bold;
-  color: #4aaaa5;
+  color: #0c0c0c;
 }
 
 .description-content {
@@ -189,7 +189,7 @@ body {
   /* Typography */
   font-size: 25px;
   font-weight: bold;
-  color: #4aaaa5;
+  color: #0f1414;
 }
 
 .imageNav-photo {
@@ -206,7 +206,7 @@ body {
 
 .imageNav-photo.active {
   /* Visuals */
-  border: 2px solid #4aaaa5;
+  border: 2px solid #0d0f0f;
 }
 
 #images {
@@ -232,7 +232,7 @@ body {
   /* Typography */
   font-size: 20px;
   font-weight: bold;
-  color: #4aaaa5;
+  color: #121313;
   text-align: center;
 }
 
@@ -258,7 +258,7 @@ body {
   margin-top: 15px;
 
   /* Typography */
-  color: #fff;
+  color: rgb(22, 20, 20);
 }
 
 .two-toned-footer-color {
@@ -267,7 +267,7 @@ body {
   padding-top: 3px;
 
   /* Visual */
-  background-color: #4aaaa5;
+  background-color: #5b5e5d;
 }
 
 /* ----FOOTER END---- */
